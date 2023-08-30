@@ -153,6 +153,14 @@
                 {
                     "label": "05",
                     "value": "ProjectTCPEchoServer"
+                },
+                {
+                    "label": "06",
+                    "value": "ProjectHTTPSClient"
+                },
+                {
+                    "label": "07",
+                    "value": "ProjectHTTPSServer"
                 }
             ],
             "default": "ProjectHelloWorld"
