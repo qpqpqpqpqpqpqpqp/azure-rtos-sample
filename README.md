@@ -62,9 +62,6 @@ For some common issues we found, please visit [Wiki](https://github.com/Azure-Sa
 
 ## 手順
 
-* 下記へアクセスする。  
-  https://github.com/qpqpqpqpqpqpqpqp/azure-rtos-sample
-
 * 「<> Code ▽」→「Codespaces」の順にクリックし、Codespacesを起動させる。
 
 * エクスプローラーを開き、順に「TASK EXPLORER」→「vscode」→「Build NetX Projects」→「ProjectHTTPSServer」をクリックし、ビルドを実行する。
